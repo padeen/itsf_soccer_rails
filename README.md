@@ -1,25 +1,9 @@
-# README
+# ITSF tafelvoetbal toernooi uitslagen webapplicatie
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Een webapplicatie waarmee de beheerder ITSF tafelvoetbaltoernooiuitslagen kan bijhouden
 
-Things you may want to cover:
+* Alleen de beheerder kan toernooi uitslagen beheren
 
-* Ruby version
+* Gebruikers kunnen toernooi uitslagen op aflopende bekijken
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # itsf_soccer_rails
