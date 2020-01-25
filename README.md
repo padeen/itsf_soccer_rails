@@ -4,6 +4,6 @@ Een webapplicatie waarmee de beheerder ITSF tafelvoetbaltoernooiuitslagen kan bi
 
 * Alleen de beheerder kan toernooi uitslagen beheren
 
-* Gebruikers kunnen toernooi uitslagen op aflopende bekijken
+* Gebruikers kunnen toernooi uitslagen op aflopende volgorde bekijken
 
 # itsf_soccer_rails
